@@ -1,0 +1,7 @@
+git remote set-url origin https://token@github.com/usernae/repo.git
+
+pause
+git add *
+git commit -m "auto"
+git push
+pause
